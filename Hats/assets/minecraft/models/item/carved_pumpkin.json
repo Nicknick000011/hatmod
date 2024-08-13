@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+     "layer0": "item/carved_pumpkin"
+    },
+    
+    "overrides": [
+     {"predicate": {"custom_model_data":1}, "model": "block/custom/nicklegs"} ,
+     {"predicate": {"custom_model_data":2}, "model": "block/custom/paninihair"} ,
+     {"predicate": {"custom_model_data":3}, "model": "block/custom/ecohead"} ,
+     {"predicate": {"custom_model_data":4}, "model": "block/custom/kretenhat"} ,   
+     {"predicate": {"custom_model_data":5}, "model": "block/custom/chrischeese"}
+
+    ]
+   }

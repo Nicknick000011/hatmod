@@ -1,0 +1,9 @@
+NICK HAT     /give @s minecraft:carved_pumpkin{CustomModelData:1}
+
+PANINI HAT   /give @s minecraft:carved_pumpkin{CustomModelData:2}
+
+ECO HEAD     /give @s minecraft:carved_pumpkin{CustomModelData:3}
+
+KRETEN HAT   /give @s minecraft:carved_pumpkin{CustomModelData:4}
+
+CHRIS HAT    /give @s minecraft:carved_pumpkin{CustomModelData:5}
